@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Chai -- just like Chai Tea. I'm an inspired web developer navigating through PERN stack (PostgreSQL, Express.js, React & Node.js).
+I'm Chai -- just like Chai Tea. I'm a full-stack web developer/data engineer/software engineer/ex-civil engineer. My main technology stack is JavaScript, React, Node.js, Express.js, MySQL.
 
-🔭 I’m currently working on my web application (pick-up-sports). It's a cool application for anyone looking to make new friends and join sport groups in your community. I've integrated Argon2 and JsonWebToken for authentication and multiple Google APIs (Maps, Autocomplete and Geocoding) to enrich user experience.
+🔭 I’m currently working on my new educational web application (on Civil Engineer/Formwork Engineering). It's a cool application for anyone looking to learn the basic of formwork such as pour pressure, tie load, bracing load. I want to learn and incorporate WebGL to showcase some key basic aspect of formworks.
 
-🌱 I’m currently learning data structures and ways to improve my application database. I'm currently learning how to modify my database queries to include common table expressions and aggregate functions. I really enjoy finding new ways to manipulate data. If you have any tips and tricks or any helpful resources, please feel free to send them my way. I appreciate everyone's help and guidance.
+🌱 I’m currently learning WebGL to up my frontend game.
+
+⚡ Fun fact: Current activities I do weekly are bouldering and badminton. I love watching football (soccer) especially Premier League.
 
 📫 How to reach me: https://www.linkedin.com/in/siriphumchiaravanont/
 <!--
