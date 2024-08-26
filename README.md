@@ -2,9 +2,9 @@
 
 I'm Chai -- just like Chai Tea. I'm a full-stack web developer/data engineer/software engineer/ex-civil engineer. My main technology stack is JavaScript, React, Node.js, Express.js, MySQL.
 
-🔭 I’m currently working on my new educational web application (on Civil Engineer/Formwork Engineering). It's a cool application for anyone looking to learn the basic of formwork such as pour pressure, tie load, bracing load. I want to learn and incorporate WebGL to showcase some key basic aspect of formworks.
+🔭 I’m currently working on foodie application where users can explore, learn and rate dishes from around the world. Users can find near by restaurants and play different ranking games.
 
-🌱 I’m currently learning WebGL to up my frontend game.
+🌱 I’m currently learning VueJS.
 
 ⚡ Fun fact: Current activities I do weekly are bouldering and badminton. I love watching football (soccer) especially Premier League.
 
