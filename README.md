@@ -4,6 +4,8 @@ I'm Chai -- just like Chai Tea. I'm a full-stack web developer/data engineer/sof
 
 🔭 I’m currently working on foodie application where users can explore, learn and rate dishes from around the world. Users can find near by restaurants and play different ranking games.
 
+  Check out www.zestypan.com to start exploring now!
+
 🌱 I’m currently learning VueJS.
 
 ⚡ Fun fact: Current activities I do weekly are bouldering and badminton. I love watching football (soccer) especially Premier League.
