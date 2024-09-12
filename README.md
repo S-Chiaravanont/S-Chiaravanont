@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chai -- just like Chai Tea. I'm a full-stack web developer/data engineer/software engineer/ex-civil engineer. My main technology stack is JavaScript, React, Node.js, Express.js, MySQL.
+I'm Chai -- just like Chai Tea. I'm a full-stack web developer/data engineer/software engineer/ex-civil engineer. My main technology stack is JavaScript, ReactJS, Node.js, Express.js, MySQL, VueJS.
 
 🔭 I’m currently working on foodie application where users can explore, learn and rate dishes from around the world. Users can find near by restaurants and play different ranking games.
 
